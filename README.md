@@ -2,8 +2,8 @@
 ## This is my journal
 
 ### Growth Mindset
-- Perserverance
-- Willingness to accept criticism
+- **Perserverance**
+- Willingness to accept *criticism*
 - Willingness to ask others when struggling
 
 ### Growth Reminders
