@@ -9,7 +9,7 @@
 ### Growth Reminders
 - Keep Notes
 - Reference things and keep things organized to help remind yourself
-- Commit to reading and educating yourself outside of
+- Commit to reading and educating yourself outside of work
 
 
 <p> This is a paragraph. <br> This is a line break in the paragraph.<br> This is a <strong> bold</strong> word.<br> This is an <em> itallicized </em> word.</p
