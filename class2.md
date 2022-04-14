@@ -8,3 +8,7 @@
   - Under the hood in Linux everything is a file
   - Linux is an extensionless system
   - Linux is case sensitive
+  
+  - Class 3 link [Class 3](https://cipherian.github.io/reading-notes/class3)
+
+

@@ -16,11 +16,10 @@
  > This is a Quote.
   >> This is two Quotes.
   >>> This is three Quotes.
-  >>> [Google](https://google.com/)
+  >>> [Class2](https://cipherian.github.io/reading-notes/class2)
   
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-  :wink:
   
   
 
