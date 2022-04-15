@@ -6,7 +6,7 @@
 
 - I learned how to plan out a website. This is an example that was primarily made by my teammate Sylvie, but I gave feedback on it.
 
-[Wireframe](/Pictures/wireframe.jpg)
+[Wireframe](https://imgur.com/a/FV8x4Sq)
 
 - I also learned various html commands and HTML semantics. Here is proof: [index](https://cipherian.github.io/reading-notes/index)
 
