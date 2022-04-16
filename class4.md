@@ -8,7 +8,7 @@
 
 [Wireframe](https://imgur.com/a/FV8x4Sq)
 
-- I also learned various html commands and HTML semantics. Here is proof: [index](https://cipherian.github.io/reading-notes/index)
+- I also learned various html commands and HTML semantics. Here is proof: [index](https://cipherian.github.io/index/)
 
 Here is my link to class 5 notes.
 
