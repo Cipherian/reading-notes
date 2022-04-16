@@ -34,7 +34,7 @@ I'm excited to get into the world of software development because it's important
 
 - [Class5](https://cipherian.github.io/reading-notes/class5)
 
-- [IndexHtml](https:cipherian.github.io/index)
+- [IndexHtml](https://cipherian.github.io/index/)
 
 - [Class6](https://cipherian.github.io/reading-notes/class6)
 
