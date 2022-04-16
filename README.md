@@ -28,7 +28,7 @@ I'm excited to get into the world of software development because it's important
 - [Class2](https://cipherian.github.io/reading-notes/class2)
 
  - [Class3](https://cipherian.github.io/reading-notes/class3)
-[ Stretchgoals](https://cipherian.github.io/reading-notes/stretchgoals)
+[ Stretchgoals](https://cipherian.github.io/reading-notes/Stretchgoals.md)
   
 - [Class4](https://cipherian.github.io/reading-notes/class4)
 
