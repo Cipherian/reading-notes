@@ -23,6 +23,17 @@ I'm excited to get into the world of software development because it's important
 - Reference things and keep things organized to help remind yourself
 - Commit to reading and educating yourself outside of work
 
+## DIRECTORY
 
 - [Class2](https://cipherian.github.io/reading-notes/class2)
+
+ - [Class3](https://cipherian.github.io/reading-notes/class3)
+[ Stretchgoals](https://cipherian.github.io/reading-notes/stretchgoals)
   
+- [Class4](https://cipherian.github.io/reading-notes/class4)
+
+- [Class5](https://cipherian.github.io/reading-notes/class5)
+
+- [Class6](https://cipherian.github.io/reading-notes/class6)
+
+-
