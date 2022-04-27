@@ -38,4 +38,6 @@ I'm excited to get into the world of software development because it's important
 
 - [Class6](https://cipherian.github.io/reading-notes/class6)
 
--
+- [Class7](https://cipherian.github.io/reading-notes/class7)
+
+- [Class8](https://cipherian.github.io/reading-notes/class8)
