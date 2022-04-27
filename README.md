@@ -1,6 +1,6 @@
 # Daniel Brott's journal entry 4/11/2022
 
-## Daniel Brott's introduction
+## Daniel Brott's 102 notes
 
 - Your name, pronouns, location (and timezone?)
 Daniel Brott (He, Him) Washington PST
@@ -27,8 +27,8 @@ I'm excited to get into the world of software development because it's important
 
 - [Class2](https://cipherian.github.io/reading-notes/class2)
 
- - [Class3](https://cipherian.github.io/reading-notes/class3)
-[ Stretchgoals](https://cipherian.github.io/reading-notes/Stretchgoals.md)
+- [Class3](https://cipherian.github.io/reading-notes/class3)
+[Stretchgoals](https://cipherian.github.io/reading-notes/Stretchgoals.md)
   
 - [Class4](https://cipherian.github.io/reading-notes/class4)
 

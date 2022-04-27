@@ -8,7 +8,7 @@
 
 - Assignment operators include functions such as: assignment x=f(), addition assignment x += f(), subtraction assignment x -= f() and much more.
 
-- Assignments are nested within a variable declaratopm such as const, let,var.
+- Assignments are nested within a variable declarations such as const, let,var.
 
 - Loops offer a quick and easy way to do something repeatedly. 
 
