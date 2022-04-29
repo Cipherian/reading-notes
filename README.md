@@ -1,4 +1,4 @@
-# Daniel Brott's journal entry 4/11/2022
+# Daniel Brott's reading notes repo
 
 ## Daniel Brott's 102 notes
 
@@ -15,7 +15,7 @@ I'm excited to get into the world of software development because it's important
 
 - **Perserverance**
 - Willingness to accept *criticism*
-- Willingness to ask others when struggling
+- *Willingness to ask others when struggling*
 
 ## Growth Reminders
 
@@ -23,7 +23,10 @@ I'm excited to get into the world of software development because it's important
 - Reference things and keep things organized to help remind yourself
 - Commit to reading and educating yourself outside of work
 
-## DIRECTORY
+> Live as if you were to die tomorrow; learn as if you were to live forever.
+    - Mahatma Gandhi
+
+## Codefellows 102 DIRECTORY
 
 - [Class2](https://cipherian.github.io/reading-notes/class2)
 
@@ -41,3 +44,35 @@ I'm excited to get into the world of software development because it's important
 - [Class7](https://cipherian.github.io/reading-notes/class7)
 
 - [Class8](https://cipherian.github.io/reading-notes/class8)
+
+## Codefellows 201 directory
+
+-[Class-1](https://cipherian.github.io/reading-notes/class-1)
+
+-[Class-2](https://cipherian.github.io/reading-notes/class-2)
+
+-[Class-3](https://cipherian.github.io/reading-notes/class-3)
+
+-[Class-4](https://cipherian.github.io/reading-notes/class-4)
+
+-[Class-5](https://cipherian.github.io/reading-notes/class-5)
+
+-[Class-6](https://cipherian.github.io/reading-notes/class-6)
+
+-[Class-7](https://cipherian.github.io/reading-notes/class-7)
+
+-[Class-8](https://cipherian.github.io/reading-notes/class-8)
+
+-[Class-9](https://cipherian.github.io/reading-notes/class-9)
+
+-[Class-10](https://cipherian.github.io/reading-notes/class-10)
+
+-[Class-11](https://cipherian.github.io/reading-notes/class-11)
+
+-[Class-12](https://cipherian.github.io/reading-notes/class-12)
+
+-[Class-13](https://cipherian.github.io/reading-notes/class-1)
+
+-[Class-14](https://cipherian.github.io/reading-notes/class-1)
+
+-[Class-15](https://cipherian.github.io/reading-notes/class-1)
