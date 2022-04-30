@@ -15,5 +15,8 @@
   - Figure: The figure element or figcaption can be used to contain content that is referenced from the main flow of an article. It should only be used when the content references the element.
 
   - Div: The div element, though not used as much in HTML5 is still useful for grouping together related elements.
-  
 
+## Things I want to know about
+
+  - How IDs and classes work with loops.
+  
