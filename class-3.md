@@ -30,7 +30,7 @@
 
 - Falsy variables are treated as is they are false, truthy variables are treated as if they were true.
 
-- false == 0 evaluates true
+- false == 0 evaluates true 
 
 - false === 0 evaluates false
 
