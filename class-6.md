@@ -24,7 +24,7 @@
   }
 }; -->
 
-- In the aboe object you have the keys which are: name, rooms, booked, gym, roomtypes.
+- In the about object you have the keys which are: name, rooms, booked, gym, roomtypes.
 
 - The method is checkAvailability function.
 
