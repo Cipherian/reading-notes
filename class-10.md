@@ -2,7 +2,7 @@
 
 ## What I have learned today
 
-> If Javascript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. 
+> If Javascript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code.
 
 - You can use a set of statements to handle the error. If the script is not handled the script will stop going.
 
