@@ -1,4 +1,4 @@
-## This is my journal 8/09/2022
+# This is my journal 8/09/2022
 
 ## What does REST stand for?
 
@@ -43,3 +43,5 @@
 ## What status code does a successful DELETE request return?
 
 - DELETE removes the resource at the specified URI.
+
+- Source: 
