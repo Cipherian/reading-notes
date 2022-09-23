@@ -79,11 +79,11 @@ I'm excited to get into the world of software development because it's important
 
 ## Codefellows 301 directory
 
--[301-Class1](Class301-1.md)
+-[301-Class1](./Class301-notes/Class301-1.md)
 
--[301-Class2](Class301-2.md)
+-[301-Class2](./class301/Class301-2.md)
 
--[301-Class3](Class301-3.md)
+-[301-Class3](./class301/Class301-3.md)
 
 -[301-Class4](Class301-4.md)
 
@@ -98,3 +98,35 @@ I'm excited to get into the world of software development because it's important
 -[301-Class9](Class301-9.md)
 
 -[301-Class10](Class301-10.md)
+
+## Codefellows 401 directory
+
+-[401-Class1](Class401-1.md)
+
+-[401-Class1](Class401-2.md)
+
+-[401-Class1](Class401-3.md)
+
+-[401-Class1](Class401-4.md)
+
+-[401-Class1](Class401-5.md)
+
+-[401-Class1](Class401-6.md)
+
+-[401-Class1](Class401-7.md)
+
+-[401-Class1](Class401-8.md)
+
+-[401-Class1](Class401-9.md)
+
+-[401-Class1](Class401-10.md)
+
+-[401-Class1](Class401-11.md)
+
+-[401-Class1](Class401-12.md)
+
+-[401-Class1](Class401-13.md)
+
+-[401-Class1](Class401-14.md)
+
+-[401-Class1](Class401-15.md)
