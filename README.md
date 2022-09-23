@@ -85,48 +85,48 @@ I'm excited to get into the world of software development because it's important
 
 -[301-Class3](./class301/Class301-3.md)
 
--[301-Class4](Class301-4.md)
+-[301-Class4](./class301/Class301-4.md)
 
--[301-Class5](Class301-5.md)
+-[301-Class5](./class301/Class301-5.md)
 
--[301-Class6](Class301-6.md)
+-[301-Class6](./class301/Class301-6.md)
 
--[301-Class7](Class301-7.md)
+-[301-Class7](./class301/Class301-7.md)
 
--[301-Class8](Class301-8.md)
+-[301-Class8](./class301/Class301-8.md)
 
--[301-Class9](Class301-9.md)
+-[301-Class9](./class301/Class301-9.md)
 
--[301-Class10](Class301-10.md)
+-[301-Class10](./class301/Class301-10.md)
 
 ## Codefellows 401 directory
 
--[401-Class1](Class401-1.md)
+-[401-Class1](./Class401/Class401-1.md/)
 
--[401-Class1](Class401-2.md)
+-[401-Class2](./Class401/Class401-2.md/)
 
--[401-Class1](Class401-3.md)
+-[401-Class3](./Class401/Class401-3.md/)
 
--[401-Class1](Class401-4.md)
+-[401-Class4](./Class401/Class401-4.md/)
 
--[401-Class1](Class401-5.md)
+-[401-Class5](./Class401/Class401-5.md/)
 
--[401-Class1](Class401-6.md)
+-[401-Class6](Class401-6.md)
 
--[401-Class1](Class401-7.md)
+-[401-Class7](Class401-7.md)
 
--[401-Class1](Class401-8.md)
+-[401-Class8](Class401-8.md)
 
--[401-Class1](Class401-9.md)
+-[401-Class9](Class401-9.md)
 
--[401-Class1](Class401-10.md)
+-[401-Class10](Class401-10.md)
 
--[401-Class1](Class401-11.md)
+-[401-Class11](Class401-11.md)
 
--[401-Class1](Class401-12.md)
+-[401-Class12](Class401-12.md)
 
--[401-Class1](Class401-13.md)
+-[401-Class13](Class401-13.md)
 
--[401-Class1](Class401-14.md)
+-[401-Class14](Class401-14.md)
 
--[401-Class1](Class401-15.md)
+-[401-Class15](Class401-15.md)
