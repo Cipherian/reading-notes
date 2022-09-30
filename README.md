@@ -101,6 +101,12 @@ I'm excited to get into the world of software development because it's important
 
 ## Codefellows 401 directory
 
+-[Sql-Notes](./Class401/SQL-notes.md)
+
+-[Data-Structures](./Class401/DataStructures.md)
+
+-[Engineering-Readings](./Class401/EngineeringReadings.md)
+
 -[401-Class1](./Class401/Class401-1.md/)
 
 -[401-Class2](./Class401/Class401-2.md/)
