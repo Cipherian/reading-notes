@@ -18,7 +18,7 @@
 
 ## From
 
-- To get data from a table, you need to use SELECT and FROM, to choose where we want to select. 
+- To get data from a table, you need to use SELECT and FROM, to choose where we want to select.
 
 - The * is called the splat and is a shortcut to get all columns.
 
@@ -26,3 +26,10 @@
 
 - By default results are returned in the order that they are store in the database.
 
+- SQL Screenshots:
+
+[SQL1](./SQLImages/sql1.png)
+[SQL2](./SQLImages/sql2.png)
+[SQL3](./SQLImages/sql3.png)
+[SQL4](./SQLImages/sql4.png)
+[SQL5](./SQLImages/sql5.png)
