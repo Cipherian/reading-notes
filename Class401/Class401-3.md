@@ -76,6 +76,3 @@
 
 Source 1: [Real Python exceptions](https://realpython.com/python-exceptions/)
 Source 2: [Real Python read and write files](https://realpython.com/read-write-files-python/)
-
-
-
